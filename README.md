@@ -1,34 +1,33 @@
 # Python 
 
-Python is a high-level, interpreted programming language that has gained popularity in recent years due to its clear syntax and readability. It was first released in 1991 by Guido van Rossum, and is now maintained by the Python Software Foundation.
+Python é uma linguagem de programação interpretada de alto nível que ganhou popularidade nos últimos anos devido à sua sintaxe clara e legibilidade. Foi lançado pela primeira vez em 1991 por Guido van Rossum e agora é mantido pela Python Software Foundation.
 
-One of the key features of Python is its readability and ease of use. Python's syntax is designed to be intuitive and easy to understand, making it a great language for beginners to learn. Additionally, its high-level, object-oriented design allows for the creation of clear and maintainable code, making it a popular choice for a wide range of applications.
+Uma das principais características do Python é sua legibilidade e facilidade de uso. A sintaxe do Python foi projetada para ser intuitiva e fácil de entender, tornando-se uma ótima linguagem para iniciantes aprenderem. Além disso, seu design de alto nível e orientado a objetos permite a criação de código claro e sustentável, tornando-se uma escolha popular para uma ampla gama de aplicativos.
 
-Some of the key features of Python include:
+Alguns dos principais recursos do Python incluem:
 
-- Easy to Learn and Use
-- Interpreted Language
-- Cross-platform Compatibility
-- Large Standard Library
-- Dynamically Typed
-- Object-Oriented
-- High-level Language
-- Strong Support for Functional and Procedural Programming
-- Multipurpose
-- Large Community
+- Fácil de Aprender e Usar
+- Linguagem Interpretada
+- Compatibilidade multiplataforma
+- Grande Biblioteca Padrão
+- Dinamicamente digitado
+- Orientado a objetos
+- Linguagem de alto nível
+- Forte Apoio à Programação Funcional e Processual
+- Multiuso
+- Grande Comunidade
 
-# Template
+# Modelo
 
-**Name** : Python HTTP Server
+**Nome** : Python HTTP Server
 
-**Description** : Python is a high-level, interpreted programming language that has gained popularity in recent years due to its clear syntax and readability. It was first released in 1991 by Guido van Rossum, and is now maintained by the Python Software Foundation.
+**Description** : Python é uma linguagem de programação interpretada de alto nível que ganhou popularidade nos últimos anos devido à sua sintaxe clara e legibilidade. Foi lançado pela primeira vez em 1991 por Guido van Rossum e agora é mantido pela Python Software Foundation.
 
 # Errors/Feedback
 
-If you found any error feel free to do any of these things : 
+Se você encontrou algum erro, sinta-se à vontade para fazer alguma dessas coisas :
 
-- Comment on the template
-- DM me on Discord
-- Mail me at Hugoonreplit@gmail.com
-
-All errors/feedback is appreciated!
+-Comente sobre o modelo
+-DM me no Discord
+-Me envie um e-mail para kelvenr40@gmail.com
+Todos os erros/feedback são apreciados!
