@@ -30,4 +30,4 @@ Se você encontrou algum erro, sinta-se à vontade para fazer alguma dessas cois
 -Comente sobre o modelo
 -DM me no Discord
 -Me envie um e-mail para kelvenr40@gmail.com
-Todos os erros/feedback são apreciados!
+-Todos os erros/feedback são apreciados!
