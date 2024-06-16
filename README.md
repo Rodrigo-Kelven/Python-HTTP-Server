@@ -27,7 +27,7 @@ Alguns dos principais recursos do Python incluem:
 
 Se você encontrou algum erro, sinta-se à vontade para fazer alguma dessas coisas :
 
--Comente sobre o modelo
--DM me no Discord
--Me envie um e-mail para kelvenr40@gmail.com
--Todos os erros/feedback são apreciados!
+- Comente sobre o modelo
+- DM me no Discord
+- Me envie um e-mail para kelvenr40@gmail.com
+- Todos os erros/feedback são apreciados!
